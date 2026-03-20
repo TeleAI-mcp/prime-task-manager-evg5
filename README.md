@@ -1,2 +1,3 @@
-# prime-task-manager-evg5
-Automated issue comment bot repository
+# Prime Task Manager Evg5
+
+Automated issue comment bot repository.
